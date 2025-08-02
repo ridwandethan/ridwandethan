@@ -10,5 +10,3 @@ I am a Fullstack Developer with 20 years more experienced tech consultant, <br>a
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ridwandethan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
